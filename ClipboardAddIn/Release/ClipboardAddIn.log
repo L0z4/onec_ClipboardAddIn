@@ -1,18 +1,1 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (RegExpAddIn.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  stdafx.cpp
-  dllmain.cpp
-  ClipboardAddIn.cpp
-d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(195,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
-d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(207,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
-d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(219,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
-d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(231,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
-d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(468,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(446,29): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-     Создается библиотека D:\workspace\ClipboardAddIn\Release\ClipboardAddIn.lib и объект D:\workspace\ClipboardAddIn\Release\ClipboardAddIn.exp
-ClipboardAddIn.exp : warning LNK4070: директива /OUT:RegExpAddIn.dll в .EXP отличается от имени выходного файла "D:\workspace\ClipboardAddIn\Release\ClipboardAddIn.dll"; директива игнорируется
-  Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 60 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-ClipboardAddIn.exp : warning LNK4070: директива /OUT:RegExpAddIn.dll в .EXP отличается от имени выходного файла "D:\workspace\ClipboardAddIn\Release\ClipboardAddIn.dll"; директива игнорируется
-  ClipboardAddIn.vcxproj -> D:\workspace\ClipboardAddIn\Release\ClipboardAddIn.dll
+﻿
