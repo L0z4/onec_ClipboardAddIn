@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  RegExpAddIn.cpp
+D:\workspace\RegExpAddIn\RegExpAddIn\RegExpAddIn.cpp(629,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\workspace\RegExpAddIn\RegExpAddIn\RegExpAddIn.cpp(607,29): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Создается библиотека D:\workspace\RegExpAddIn\Release\RegExpAddIn.lib и объект D:\workspace\RegExpAddIn\Release\RegExpAddIn.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1041 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  RegExpAddIn.vcxproj -> D:\workspace\RegExpAddIn\Release\RegExpAddIn.dll

@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  RegExpAddIn.cpp
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(50): warning C4311: приведение типов: усечение указателя из "IComponentBase *" в "long"
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(50): warning C4302: приведение типов: усечение из "IComponentBase *" к "long"
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(121): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(177): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(289): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(521): warning C4267: аргумент: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(524): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(531): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+e:\workspace\1c_native\regexpaddin\regexpaddin\regexpaddin.cpp(630): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  RegExpAddIn.vcxproj -> E:\workspace\1c_native\RegExpAddIn\x64\Debug\RegExpAddIn.dll

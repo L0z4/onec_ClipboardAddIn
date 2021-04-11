@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (RegExpAddIn.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ClipboardAddIn.cpp
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(51,33): warning C4311: приведение типов: усечение указателя из "IComponentBase *" в "long"
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(51,33): warning C4302: приведение типов: усечение из "IComponentBase *" к "long"
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(121,48): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(177,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(195,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(207,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(219,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(231,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(279,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(446,29): error C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\workspace\ClipboardAddIn\ClipboardAddIn\ClipboardAddIn.cpp(468,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
