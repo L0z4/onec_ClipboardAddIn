@@ -38,6 +38,6 @@
 *.erf
 *.log
 
-Release/
-x64/
-.vc/
+**/Release/
+**/x64/
+**/.vc/
